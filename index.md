@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Home
+title: Itamar Edelstein
 ---
 # Itamar Edelstein
