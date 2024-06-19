@@ -15,8 +15,9 @@ Benefits in a Click is a user-friendly platform where users can search and compa
 I used Node.js for the back-end, HTML, CSS, and JavaScript for the front-end, PostgreSQL for the database, and Python for the web crawlers to collect the data.
 
 ### [ASCII-Art Creator](https://github.com/itaedel/ASCII-ART/)
-I created a a Java program that turns every image into ASCII art easily.  
-Built an interface to allow the user to interact and customize the output image.
+I developed a Java program named ASCII-Art Creator, designed to convert any image into ASCII art effortlessly.  
+The program features an intuitive interface, enabling users to interact with and customize the output image according to their preferences.  
+I built a user-friendly interface for easy interaction with the program. Users can upload images, adjust image settings, and preview the ASCII art output in real-time.
 
 ## Contact
 
