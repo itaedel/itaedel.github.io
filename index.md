@@ -17,7 +17,6 @@ I used Node.js for the back-end, HTML, CSS, and JavaScript for the front-end, Po
 ### [ASCII-Art Creator](https://github.com/itaedel/ASCII-ART/)
 I developed a Java program named ASCII-Art Creator, designed to convert any image into ASCII art effortlessly.  
 The program features an intuitive interface, enabling users to interact with and customize the output image according to their preferences.  
-I built a user-friendly interface for easy interaction with the program. Users can upload images, adjust image settings, and preview the ASCII art output in real-time.
 
 ## Contact
 
