@@ -14,7 +14,7 @@ Some of my projects are:
 Benefits in a Click is a user-friendly platform where users can search and compare credit card benefits based on the credit clubs they are members of and help them save money.  
 I used Node.js for the back-end, HTML, CSS, and JavaScript for the front-end, PostgreSQL for the database, and Python for the web crawlers to collect the data.
 
-### [Movie Recommendations Library](https://github.com/itaedel/MovieRecommendation)
+### [Movie Recommendation Library](https://github.com/itaedel/MovieRecommendation)
 In this project, I have developed a comprehensive C++ library aimed at managing recommendation systems and user data for major streaming companies. The purpose of this library is to enable these companies to offer highly accurate and personalized movie recommendations to their customers. The library includes a robust set of features designed to handle user and movie management, recommendation generation, data persistence, and more.
 
 ### [ASCII-Art Creator](https://github.com/itaedel/ASCII-ART/)
