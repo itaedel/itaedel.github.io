@@ -10,7 +10,7 @@ ethic, I am eager to join a dynamic team where I can collaborate, contribute, an
 ## Projects
 Some of my projects are:
 
-### [Benefits in a Click](https://itaedel.github.io/Benefits-In-A-Click/)
+### [Benefits in a Click](https://benefits-in-a-click.netlify.app/)
 Benefits in a Click is a user-friendly platform where users can search and compare credit card benefits based on the credit clubs they are members of and help them save money.  
 I used Node.js for the back-end, HTML, CSS, and JavaScript for the front-end, PostgreSQL for the database, and Python for the web crawlers to collect the data.
 
