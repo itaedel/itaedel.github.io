@@ -16,7 +16,7 @@ I used Node.js for the back-end, HTML, CSS, and JavaScript for the front-end, Po
 
 ### [Machine Learning Hackathon](https://github.com/itaedel/ML-Hackathon)
 Participated in a hackathon project focused on public transportation data analysis, implementing data
-cleaning, feature engineering, and model training to accurately predict trip durations.
+cleaning, feature engineering, and model training to accurately predict trip durations.  
 I employed a variety of machine learning models, including Neural Networks, AdaBoost, and Random
 Forest Regression, to optimize prediction accuracy
 
