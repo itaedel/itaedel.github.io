@@ -17,6 +17,8 @@ I used Node.js for the back-end, HTML, CSS, and JavaScript for the front-end, Po
 ### [Machine Learning Hackathon](https://github.com/itaedel/ML-Hackathon)
 Participated in a hackathon project focused on public transportation data analysis, implementing data
 cleaning, feature engineering, and model training to accurately predict trip durations.
+I employed a variety of machine learning models, including Neural Networks, AdaBoost, and Random
+Forest Regression, to optimize prediction accuracy
 
 ### [Movie Recommendation Library](https://github.com/itaedel/MovieRecommendation)
 In this project, I have developed a comprehensive C++ library aimed at managing recommendation systems and user data for major streaming companies. The purpose of this library is to enable these companies to offer highly accurate and personalized movie recommendations to their customers. The library includes a robust set of features designed to handle user and movie management, recommendation generation, data persistence, and more.
