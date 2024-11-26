@@ -20,6 +20,9 @@ cleaning, feature engineering, and model training to accurately predict trip dur
 I employed a variety of machine learning models, including Neural Networks, AdaBoost, and Random
 Forest Regression, to optimize prediction accuracy
 
+### [Analyzing and Predicting Trends in Academic Research](https://github.com/itaedel/Academic_Research_Trends)
+In this group project my goal was to analyze and predict trends in academic research over time, focusing on identifying trending topics and mapping collaboration patterns among researchers across different fields. This project leverages data from the Microsoft Academic Graph (MAG) to identify the most popular research topics, track their evolution, and visualize these trends dynamically. Additionally, we aim to investigate co-authorship patterns to uncover interdisciplinary collaboration networks, revealing how different research fields are interconnected through joint efforts.
+
 ### [Movie Recommendation Library](https://github.com/itaedel/MovieRecommendation)
 In this project, I have developed a comprehensive C++ library aimed at managing recommendation systems and user data for major streaming companies. The purpose of this library is to enable these companies to offer highly accurate and personalized movie recommendations to their customers. The library includes a robust set of features designed to handle user and movie management, recommendation generation, data persistence, and more.
 
